@@ -29,7 +29,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String deepLink = "No deepLink";
+  String deepLink = "one deepLink";
 
   @override
   Widget build(BuildContext context) {
